@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* client/src/App.css */
+div, button {
+  margin: 10px;
+}
+
+.analysisChart{
+  text-align: center;
+  display:inline !important;
+}
+
+.landing{
+  text-align: center;
+  margin-top: 30vh;
+}
+
+.goButton {
+  margin-top: 10vh;
+  height: 7vh;
+  width: 10vw;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.hipsterPage {
+  text-align: center;
+  margin-top: 30vh;
+}
+
+.shareIcons{
+  text-align: center;
+  font-size: 4vw;
+  color: white;
+}
+
+.shareIconButton {
+  display:inline-block;
+}
+
+.shareIcon{
+  margin-top: 1.5vw;
+}
